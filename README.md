@@ -1,1 +1,1 @@
-# monolingual-dictionary
+# MonolingualDictionaryApp
